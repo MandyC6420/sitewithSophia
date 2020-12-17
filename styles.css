@@ -1,0 +1,39 @@
+h1 {
+  font-family: "Indie Flower", cursive;
+  font-size: 2em;
+  color: #f4c20c;
+  text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+li {
+  font-family: "Amita", cursive;
+  font-family: "Indie Flower", cursive;
+  color: #f4c20c;
+}
+
+aside {
+  width: 35vw;
+}
+
+ul {
+  font-family: "Indie Flower", cursive;
+  font-size: 2em;
+}
+
+p {
+  font-family: "Indie Flower", cursive;
+  font-size: 2em;
+  color: #f4c20c;
+}
+
+body {
+  background-color: #494949;
+}
+.quote{
+    text-align: center;
+}
+
