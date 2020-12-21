@@ -1,39 +1,47 @@
-h1 {
+/* * {
+  border: 1px solid black;
+} */
+
+.banner {
+  /* display: block; */
+  margin-left: auto;
+  margin-right: auto;
   font-family: "Indie Flower", cursive;
   font-size: 2em;
-  color: #f4c20c;
   text-align: center;
+  color: darkviolet;
+  width: 30%;
 }
 
-.center{
-    text-align: center;
-}
-
-li {
-  font-family: "Amita", cursive;
-  font-family: "Indie Flower", cursive;
-  color: #f4c20c;
-}
-
-aside {
-  width: 35vw;
-}
-
-ul {
-  font-family: "Indie Flower", cursive;
-  font-size: 2em;
-}
-
-p {
-  font-family: "Indie Flower", cursive;
-  font-size: 2em;
-  color: #f4c20c;
-}
 
 body {
   background-color: #494949;
 }
-.quote{
-    text-align: center;
+
+
+.starry {
+  height: 47vh;
+  width: 95vw;
 }
+
+
+
+.card-container {
+    display: block;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 50;
+    margin: auto;
+}
+.card {
+border: 1px solid black;
+height: 35vh;
+width: 25vw;
+margin: 1em;
+padding: 1em;
+/* align-items: center; */
+}
+
 
